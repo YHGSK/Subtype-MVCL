@@ -13,4 +13,10 @@ Code of Subtype-MVCL:The cancer subtype identification model based on multi-view
 
 `Datasets.py`: Data preprocessing
 # Requirements
+* python = 3.10
 * numpy = 1.24.3
+* pyTorch = 2.2.2
+* pandas = 1.4.3
+* rpy2 = 3.5.16
+* tqdm = 4.65.0
+* matplotlib = 3.8.0
